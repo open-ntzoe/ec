@@ -1,0 +1,18 @@
+
+= Software Requirement Specifications.
+
+== main Features.
+
+=== for Seller.
+
+- product management.
+- authorizated sub-accounts.
+- revenue statistics.
+
+=== for Customers.
+
+- online shopping.
+- cart.
+- paymant methods.
+- shopping statistics.
+- coupons.
